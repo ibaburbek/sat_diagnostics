@@ -1,0 +1,6 @@
+{
+  "name": "SAT Math Diagnostic & Adaptive Learning Platform",
+  "description": "Adaptive diagnostic assessment, evidence-based skill mapping, personalized study plans, multilingual math glossary, and targeted practice for the Digital SAT Math.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
